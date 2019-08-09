@@ -1,0 +1,4 @@
+Source: ros-dashing-rosidl-typesupport-cpp
+Version: 0.7.1
+Description: Generate the type support for C++ messages.
+Build-Depends:
